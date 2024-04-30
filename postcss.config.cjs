@@ -8,7 +8,7 @@ module.exports = {
           // display: ['"Omnium"', "monospace"]
         },
         colors: {
-          red: {
+          rod: {
             50: "#FFFAFA",
             100: "#FFFAFA",
             200: "#FFFAFA",
