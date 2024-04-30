@@ -5,7 +5,7 @@ module.exports = {
       extend: {
         fontFamily: {
           // sans: ['"Prompt"', ...defaultTheme.fontFamily.sans],
-          // display: ['"Omnium"', "monospace"], // Adds a new `font-display` class
+          // display: ['"Omnium"', "monospace"]
         },
         colors: {
           red: {
